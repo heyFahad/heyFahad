@@ -9,6 +9,15 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   11 hrs 20 mins  ████████████████████████░   95.56 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
