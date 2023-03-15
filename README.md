@@ -6,8 +6,6 @@ A Senior Software Engineer with over 5 years of experience in **MERN Stack** tec
 
 With experience in JS technologies, I'm looking to share my knowledge with the programming community and develop some cool projects along the way.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=heyFahad)](https://git.io/streak-stats)
-
 ---
 
 <!--START_SECTION:waka-->
