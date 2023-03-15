@@ -11,17 +11,13 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2021 - To: 14 March 2023
+From: 14 March 2022 - To: 14 March 2023
 
-Total Time: 591 hrs 40 mins
+Total Time: 70 hrs 37 mins
 
-Vue.js                     262 hrs 29 mins ███████████░░░░░░░░░░░░░░   44.37 %
-PHP                        102 hrs 34 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-JavaScript                 92 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-TypeScript                 77 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-JSON                       15 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Markdown                   12 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other                      11 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+TypeScript   63 hrs 43 mins  ██████████████████████▓░░   90.24 %
+SCSS         4 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other        1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
