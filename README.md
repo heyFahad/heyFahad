@@ -11,14 +11,14 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 08 April 2023
+From: 09 October 2022 - To: 09 April 2023
 
-Total Time: 120 hrs 11 mins
+Total Time: 124 hrs 45 mins
 
-TypeScript   103 hrs 4 mins  █████████████████████▒░░░   85.76 %
-SCSS         7 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-JavaScript   3 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other        2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   105 hrs 46 mins █████████████████████▒░░░   84.78 %
+SCSS         9 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+JavaScript   3 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Other        2 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
