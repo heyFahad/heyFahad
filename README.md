@@ -11,17 +11,17 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 29 May 2023
+From: 29 November 2022 - To: 30 May 2023
 
-Total Time: 190 hrs 14 mins
+Total Time: 191 hrs 44 mins
 
-TypeScript   156 hrs 48 mins ████████████████████▓░░░░   82.42 %
-SCSS         21 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-JavaScript   3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-JSON         1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-XML          1 hr 34 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-YAML         1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript   157 hrs 58 mins ████████████████████▓░░░░   82.38 %
+SCSS         21 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JavaScript   3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Other        3 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JSON         1 hr 59 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+XML          1 hr 34 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+YAML         1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Markdown     58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 CSS          25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Makefile     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
