@@ -11,7 +11,7 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2022 - To: 16 June 2023
+From: 17 December 2022 - To: 17 June 2023
 
 Total Time: 231 hrs 10 mins
 
