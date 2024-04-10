@@ -11,17 +11,17 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 08 April 2024
+From: 10 October 2023 - To: 09 April 2024
 
-Total Time: 291 hrs 28 mins
+Total Time: 291 hrs 52 mins
 
-JavaScript       149 hrs 30 mins ████████████▓░░░░░░░░░░░░   51.29 %
-TypeScript       111 hrs 41 mins █████████▓░░░░░░░░░░░░░░░   38.32 %
+JavaScript       150 hrs 47 mins █████████████░░░░░░░░░░░░   51.67 %
+TypeScript       110 hrs 6 mins  █████████▒░░░░░░░░░░░░░░░   37.73 %
+Other            6 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 HTML             6 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other            6 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Bash             6 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Python           5 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON             3 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Bash             5 hrs 55 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+JSON             3 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 YAML             42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 CSV              30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Ezhil            20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
