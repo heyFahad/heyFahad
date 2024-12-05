@@ -11,19 +11,19 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 03 December 2024
+From: 05 June 2024 - To: 04 December 2024
 
-Total Time: 329 hrs 7 mins
+Total Time: 327 hrs 20 mins
 
-TypeScript    154 hrs 29 mins ███████████▓░░░░░░░░░░░░░   46.94 %
-Vue.js        62 hrs 14 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-JavaScript    55 hrs 2 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-JSON          19 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Other         10 hrs 58 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Python        8 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-YAML          6 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TypeScript    153 hrs 51 mins ███████████▓░░░░░░░░░░░░░   47.00 %
+Vue.js        62 hrs 45 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+JavaScript    53 hrs 15 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+JSON          19 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other         11 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python        8 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+YAML          6 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 Bash          2 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSS           1 hr 50 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+CSS           1 hr 52 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 Prisma        1 hr 48 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
