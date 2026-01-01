@@ -11,19 +11,19 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 30 December 2025
+From: 02 July 2025 - To: 31 December 2025
 
-Total Time: 317 hrs 10 mins
+Total Time: 314 hrs 38 mins
 
-TypeScript        173 hrs 55 mins █████████████▓░░░░░░░░░░░   54.84 %
-Vue.js            61 hrs 37 mins  █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-JavaScript        31 hrs 38 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-Other             16 hrs 7 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-JSON              10 hrs 52 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Bash              7 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML              5 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript        169 hrs 31 mins █████████████▒░░░░░░░░░░░   53.88 %
+Vue.js            61 hrs 37 mins  █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+JavaScript        31 hrs 42 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other             16 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+JSON              12 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Bash              7 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+YAML              5 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 Text              2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Groovy            2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Groovy            2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 CocoaPods         1 hr 4 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
