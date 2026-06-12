@@ -11,13 +11,13 @@ With experience in JS technologies, I'm looking to share my knowledge with the p
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2025 - To: 10 June 2026
+From: 11 December 2025 - To: 11 June 2026
 
-Total Time: 336 hrs 28 mins
+Total Time: 336 hrs 3 mins
 
-TypeScript           237 hrs 55 mins       █████████████████▓░░░░░░░   70.71 %
-JSON                 38 hrs 5 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Other                14 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+TypeScript           237 hrs 38 mins       █████████████████▓░░░░░░░   70.71 %
+JSON                 38 hrs 4 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Other                14 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 Markdown             11 hrs 5 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 YAML                 10 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 Bash                 8 hrs 31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
